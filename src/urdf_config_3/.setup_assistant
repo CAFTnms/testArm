@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robo_arm_urdf4
+    relative_path: urdf/robo_arm_urdf4.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/robo_arm_urdf4.srdf
+  CONFIG:
+    author_name: nipu
+    author_email: nipu@nipu.com
+    generated_timestamp: 1673410043

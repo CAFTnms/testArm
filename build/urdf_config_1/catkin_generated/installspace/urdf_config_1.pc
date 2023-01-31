@@ -1,0 +1,8 @@
+prefix=/home/dottie/arm_ws/install
+
+Name: urdf_config_1
+Description: Description of urdf_config_1
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

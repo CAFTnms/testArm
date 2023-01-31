@@ -1,0 +1,8 @@
+prefix=/home/dottie/arm_ws/devel
+
+Name: urdf_config_2
+Description: Description of urdf_config_2
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

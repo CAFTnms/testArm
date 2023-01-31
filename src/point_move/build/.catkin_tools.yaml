@@ -1,0 +1,6 @@
+devel_space: /home/dottie/arm_ws/src/point_move/devel
+install: false
+install_space: /home/dottie/arm_ws/src/point_move/install
+profile: default
+source_space: /home/dottie/arm_ws/src/point_move/src
+workspace: /home/dottie/arm_ws/src/point_move

@@ -1,0 +1,8 @@
+prefix=/home/dottie/arm_ws/devel
+
+Name: urdf-armV2_5
+Description: Description of urdf-armV2_5
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

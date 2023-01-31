@@ -1,0 +1,8 @@
+prefix=/home/dottie/arm_ws/install
+
+Name: robo_arm_urdf3
+Description: Description of robo_arm_urdf3
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

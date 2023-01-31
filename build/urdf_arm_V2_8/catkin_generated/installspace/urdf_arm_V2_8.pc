@@ -1,0 +1,8 @@
+prefix=/home/dottie/arm_ws/install
+
+Name: urdf_arm_V2_8
+Description: Description of urdf_arm_V2_8
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
